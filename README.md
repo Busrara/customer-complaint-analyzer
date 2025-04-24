@@ -25,6 +25,8 @@ The tool expects a CSV file with at least the following columns:
 - `PROBLEM_TYPE`: Description of the issue
 - `number_of_cases`: Number of times the problem was reported
 
+Read my Medium writing on this topic to have more clear idea: https://medium.com/@busraracoban/summarizing-customer-support-complaints-with-python-a7124f2667a7 
+
 ## 📦 Installation
 
 ```bash
